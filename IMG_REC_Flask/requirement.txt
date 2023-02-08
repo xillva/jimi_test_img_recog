@@ -1,0 +1,7 @@
+flask
+mod_wsgi
+flasgger
+tensorflow
+pillow
+numpy
+keras
